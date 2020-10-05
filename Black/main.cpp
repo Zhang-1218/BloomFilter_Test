@@ -13,6 +13,6 @@ int main()
 	cout << "www.dubai.com在集合中吗: " << (mybloom.is_contain("www.dubai.com") ? "在" : "不在") << endl;
 
 	cout << "www.qq.com在集合中吗: " << (mybloom.is_contain("www.qq.com") ? "在" : "不在") << endl;
-	system("pause");
+
 	return 0;
 }
